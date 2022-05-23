@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou o Paulo Guilherme de Oliveira</h1>
 <h3 align="center">Desenvolvedor iniciante, cursando Sistemas de Informação - UFMS</h3>
 
-- 🌱 Estou atualizando ** Python**
+- 🌱 Estou estudando atualmente ** Python**
 
-- 📫 Podemos entrar em contato através do e-mail: **driverblink@hotmail.com**
+- 📫 Para entrar em contato comigo: **driverblink@hotmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
