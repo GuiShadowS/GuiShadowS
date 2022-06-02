@@ -5,7 +5,7 @@
 
 - 📫 Podem entrar em contato através do e-mail: **driverblink@hotmail.com**
 
-<h3 align="left">Entre em contato:</h3>
+<h3 align="left">Redes Sociais:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pauloguilhermeoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pauloguilhermeoliveira" height="30" width="40" /></a>
 <a href="https://instagram.com/p_g_oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p_g_oliveira" height="30" width="40" /></a>
