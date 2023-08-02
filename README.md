@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Paulo Guilherme de Oliveira</h1>
-<h3 align="center">Desenvolvedor Trainee, cursando Sistemas de Informação - UFMS</h3>
+<h3 align="center">Desenvolvedor iniciante, cursando Sistemas de Informação - UFMS</h3>
 
 - 🌱 Estou aprendendo atualmente **Python/Javascript**
 
